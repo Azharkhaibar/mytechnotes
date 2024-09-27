@@ -1,6 +1,6 @@
 # 🌐 What is DNS?
 
-![alt text](img/image.png)
+![alt text](image.png)
 
 # 🌐 Apa itu DNS?
 
@@ -32,3 +32,5 @@ Ada beberapa tipe record DNS, masing-masing memiliki tujuan unik:
 ---
 
 Memahami DNS sangat penting untuk menjelajahi Internet, karena memainkan peran vital dalam menerjemahkan nama domain yang ramah pengguna menjadi alamat IP yang dapat dibaca mesin.
+
+[whats browser?](whats_browser.md)
