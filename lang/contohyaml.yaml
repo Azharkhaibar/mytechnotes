@@ -1,0 +1,74 @@
+# Konfigurasi aplikasi web
+app:
+  name: MyAwesomeApp
+  version: 1.0.0
+  description: >
+    Aplikasi ini dirancang untuk membantu pengguna mengelola
+    tugas-tugas sehari-hari mereka dengan efisien.
+
+# Pengaturan server
+server:
+  host: localhost
+  port: 8080
+  ssl: true
+  # Pengaturan SSL
+  ssl_config:
+    certificate: /path/to/certificate.pem
+    key: /path/to/key.pem
+
+# Database konfigurasi
+database:
+  engine: postgresql
+  name: mydatabase
+  user: admin
+  password: secret
+  host: db.local
+  port: 5432
+  # Daftar tabel yang digunakan
+  tables:
+    - users
+    - tasks
+    - settings
+
+# Konfigurasi fitur aplikasi
+features:
+  enable_notifications: true
+  enable_logging: true
+  log_level: INFO
+
+# Daftar pengguna
+users:
+  - id: 1
+    name: John Doe
+    email: john.doe@example.com
+    roles:
+      - admin
+      - user
+  - id: 2
+    name: Jane Smith
+    email: jane.smith@example.com
+    roles:
+      - user
+
+# Pengaturan task
+tasks:
+  - id: 1
+    title: Belanja
+    description: Beli bahan makanan untuk minggu ini
+    due_date: 2024-10-01
+    priority: high
+  - id: 2
+    title: Rapat
+    description: Rapat dengan tim di kantor
+    due_date: 2024-10-02
+    priority: medium
+
+# Komponen lain
+services:
+  email_service:
+    provider: SendGrid
+    api_key: your_api_key_here
+    default_sender: noreply@example.com
+  payment_gateway:
+    provider: Stripe
+    api_key: your_payment_api_key_here
