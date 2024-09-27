@@ -2,31 +2,33 @@
 
 ![alt text](img/image.png)
 
-**DNS (Domain Name System)** is a decentralized naming system for Internet addresses. It enables the creation of human-readable names (domain names) that correspond to the numeric IP addresses used by computers, making the web more accessible to users.
+# 🌐 Apa itu DNS?
 
-## Structure of DNS
+**DNS (Domain Name System)** adalah sistem penamaan yang terdesentralisasi untuk alamat Internet. Ini memungkinkan pembuatan nama yang dapat dibaca manusia (nama domain) yang sesuai dengan alamat IP numerik yang digunakan oleh komputer, sehingga membuat web lebih mudah diakses oleh pengguna.
 
-DNS is composed of numerous independent nodes, each responsible for storing only the data relevant to its specific area. This decentralized structure enhances the reliability and efficiency of the system.
+## Struktur DNS
 
-## Key Components
+DNS terdiri dari banyak node independen, masing-masing bertanggung jawab untuk menyimpan hanya data yang relevan dengan area spesifiknya. Struktur terdesentralisasi ini meningkatkan keandalan dan efisiensi sistem.
+
+## Komponen Utama
 
 ### DNS Resolver
-A **DNS Resolver** is a server typically located close to your Internet Service Provider (ISP). It performs the following functions:
-- Searches for addresses based on domain names.
-- Caches responses (temporarily stores them) for quick retrieval in future requests.
+**DNS Resolver** adalah server yang biasanya terletak dekat dengan Penyedia Layanan Internet (ISP) Anda. Ia melakukan fungsi-fungsi berikut:
+- Mencari alamat berdasarkan nama domain.
+- Menyimpan respons (secara temporer) untuk pemulihan yang cepat pada permintaan di masa mendatang.
 
-## DNS Record Types
+## Tipe Record DNS
 
-There are several types of DNS records, each serving a unique purpose:
+Ada beberapa tipe record DNS, masing-masing memiliki tujuan unik:
 
-- **A Record**: Associates a domain name with an IPv4 address.
-- **AAAA Record**: Links a domain name with an IPv6 address.
-- **CNAME Record**: Redirects one domain name to another.
-- **MX Record**: Specifies mail exchange servers for the domain.
-- **NS Record**: Indicates the authoritative name servers for the domain.
-- **PTR Record**: Provides the domain name associated with an IP address.
-- **SOA Record**: Contains administrative information about the domain.
+- **A Record**: Mengasosiasikan nama domain dengan alamat IPv4.
+- **AAAA Record**: Menghubungkan nama domain dengan alamat IPv6.
+- **CNAME Record**: Mengalihkan satu nama domain ke nama domain lain.
+- **MX Record**: Menentukan server pertukaran email untuk domain.
+- **NS Record**: Menunjukkan server nama yang berwenang untuk domain.
+- **PTR Record**: Menyediakan nama domain yang terkait dengan alamat IP.
+- **SOA Record**: Berisi informasi administratif tentang domain.
 
 ---
 
-Understanding DNS is crucial for navigating the Internet, as it plays a vital role in translating user-friendly domain names into machine-readable IP addresses.
+Memahami DNS sangat penting untuk menjelajahi Internet, karena memainkan peran vital dalam menerjemahkan nama domain yang ramah pengguna menjadi alamat IP yang dapat dibaca mesin.
