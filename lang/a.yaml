@@ -1,0 +1,34 @@
+# YAML (YAML Ain't Markup Language) adalah format serialisasi data yang sering digunakan untuk konfigurasi dan data pertukaran. Berikut adalah beberapa poin penting tentang YAML:
+
+# 1. Keterbacaan
+# YAML dirancang untuk mudah dibaca oleh manusia. Formatnya yang bersih dan sederhana membuatnya intuitif untuk ditulis dan dipahami.
+# 2. Struktur Data
+# YAML mendukung berbagai tipe data, termasuk string, angka, boolean, list, dan dictionary (peta). Contoh struktur data dalam YAML:
+
+person:
+  name: John Doe
+  age: 30
+  hobbies:
+    - reading
+    - traveling
+
+# 3. Indentasi
+# YAML menggunakan indentasi untuk menunjukkan hierarki dan struktur data. Penting untuk konsisten dalam penggunaan spasi (bukan tab) untuk menghindari kesalahan.
+# 4. Kompatibilitas
+# YAML sering digunakan dalam berbagai aplikasi, termasuk konfigurasi perangkat lunak, penyimpanan data, dan komunikasi antar layanan. Contoh penggunaan YAML termasuk file konfigurasi untuk Docker, Kubernetes, dan Ansible.
+# 5. Ekstensi
+# File YAML biasanya memiliki ekstensi .yaml atau .yml.
+# 6. Dukungan Multi-Dokumen
+# YAML dapat menyimpan beberapa dokumen dalam satu file menggunakan tanda --- untuk memisahkan setiap dokumen.
+
+# Contoh Dasar YAML
+# Berikut adalah contoh konfigurasi sederhana dalam format YAML:
+
+server:
+  host: localhost
+  port: 8080
+database:
+  engine: postgres
+  name: mydb
+  user: admin
+  password: secret
