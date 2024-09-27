@@ -1,1 +1,2 @@
-# 📒 MyTechNotes
+# 📒 My Technical Notes
+
