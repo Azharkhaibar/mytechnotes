@@ -35,3 +35,5 @@ Driver perangkat adalah perangkat lunak khusus yang memungkinkan OS bekerja deng
 ---
 
 Dengan pemahaman yang baik tentang desain sistem operasi, Anda dapat menghargai bagaimana OS mengelola sumber daya dan menyediakan lingkungan yang stabil untuk aplikasi dan pengguna.
+
+[PRIMARY COMPONENT OF COMPUTER](komponenutamakomputer.md)

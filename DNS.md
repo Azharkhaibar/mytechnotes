@@ -34,3 +34,5 @@ Ada beberapa tipe record DNS, masing-masing memiliki tujuan unik:
 Memahami DNS sangat penting untuk menjelajahi Internet, karena memainkan peran vital dalam menerjemahkan nama domain yang ramah pengguna menjadi alamat IP yang dapat dibaca mesin.
 
 [whats browser?](whats_browser.md)
+[Whats VPN AND PROXY?](vpn_and_proxy.md)
+[TCP/IP](tcp/IP.md)

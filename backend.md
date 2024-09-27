@@ -40,3 +40,5 @@ Backend berfokus pada logika aplikasi dan pengolahan data. Tugas-tugas utama Bac
 ## 📅 Kesimpulan
 
 Desain aplikasi web modern melibatkan kerjasama yang erat antara Frontend dan Backend, menciptakan pengalaman pengguna yang responsif dan fungsional. Dengan memahami tugas masing-masing bagian, pengembang dapat membangun aplikasi yang efisien dan menarik.
+
+[Web Application Design](web_application_design.md)

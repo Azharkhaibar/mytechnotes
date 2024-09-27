@@ -8,7 +8,7 @@
 ## ⚙️ Bagaimana Cara Kerjanya?
 Browser itu seperti multitasker yang menangani segala hal mulai dari pemrosesan kueri hingga merender halaman. Selain itu, setiap tab berjalan di dunianya sendiri (alias proses), jadi kekacauan di satu tab tidak akan mengganggu yang lain.
 
-![Ilustrasi Cara Kerja Browser](https://example.com/path-to-image.png) <!-- Ganti dengan URL gambar yang relevan -->
+![Ilustrasi Cara Kerja Browser](img/image-1.png) <!-- Ganti dengan URL gambar yang relevan -->
 
 ---
 
@@ -70,3 +70,5 @@ Dengan DevTools, kamu bisa mengoptimalkan dan memperbaiki situs web kamu dengan 
 ---
 
 Dengan README ini, kamu bisa lebih memahami tentang browser dan cara kerjanya dengan cara yang asyik dan menarik! 🎉
+
+[HOW BROWSER WORKS?](how_browser_work.md)
