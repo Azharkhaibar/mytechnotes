@@ -3,4 +3,7 @@
 ![alt text](img/adocker.png)
 
 ## command dasar docker
-![alt text](image.png)
+![alt text](img/commanddasar.png)
+
+## command dasar docker /2
+![alt text](img/commanddasar2.png)
