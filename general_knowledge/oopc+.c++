@@ -37,7 +37,7 @@ public:
 };
 
 int main() {
-    Mobil mobilBiasa("Toyota", "Avanza", 2020);
+    Mobil mobilBiasa("Toyota", "Pajero", 2020);
     mobilBiasa.tampilkanInfo();
     mobilBiasa.nyalakanMesin();
     
