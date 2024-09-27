@@ -1,6 +1,6 @@
 # 🌐 What is DNS?
 
-![alt text](image.png)
+![alt text](img/image.png)
 
 **DNS (Domain Name System)** is a decentralized naming system for Internet addresses. It enables the creation of human-readable names (domain names) that correspond to the numeric IP addresses used by computers, making the web more accessible to users.
 
