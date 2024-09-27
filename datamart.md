@@ -1,6 +1,6 @@
 # 🚀 **DATA ENGINEER** -> Memahami Data Journey - Big Picture
 
-![Data Journey](Pasted image 20240714163039.png)
+(![Data Journey](img/image-2.png))
 
 ## **Data Mart 🏬**
 Data mart adalah **subkumpulan** dari data dalam data warehouse yang difokuskan pada **kebutuhan bisnis** tertentu atau **departemen tertentu** dalam organisasi. 📊
@@ -17,14 +17,14 @@ Data Engineer merupakan bagian dari **Ecosystem Flow data**, kerjanya mirip **so
 ### Singkatnya:
 Data Engineer adalah **software engineer** dengan **spesialisasi** dalam menyiapkan **arsitektur data** untuk analisis dan operasional. 💻
 
-![Data Engineer](Pasted image 20240714164837.png)
+![Data Engineer](img/image-3.png)
 
 Menurut **Data Science Hierarchy**: 
 Data Engineer bertanggung jawab memastikan data dapat digunakan dan **reliable**. ✅
 
-![Data Science Hierarchy](Pasted image 20240714165449.png)
+![Data Hierarki](image-3.png)
 
-![Data Responsibilities](Pasted image 20240714165541.png)
+![Data Responsibilities](image-2.png)
 
 ### **Tugas Data Engineer** 🔍
 Tugas utama Data Engineer adalah **Data Extraction** dan **data Processing** dari berbagai sumber. 📥
