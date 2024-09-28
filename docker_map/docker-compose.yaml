@@ -1,0 +1,25 @@
+version: "3.9"
+
+services:
+  demo-1:
+    container_name: demo-1
+    image: nginx:latest
+    volumes:
+      - data-1:/data-1
+    networks:
+      - frontend
+
+  demo-2:
+    container_name: demo-2
+    image: redis:latest
+    networks:
+      - backend
+
+networks:
+  frontend:
+    external: true
+  backend:
+    driver: bridge
+
+volumes:
+  data-1:
