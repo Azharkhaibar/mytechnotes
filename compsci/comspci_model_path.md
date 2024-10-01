@@ -1,4 +1,5 @@
 flowchart TD
+```mermaid
     A[**Computer Science**] 
     style A fill:#2c3e50,stroke:#ecf0f1,stroke-width:4px
     A -->|Mempelajari| B[**Dasar-Dasar Komputer**]
@@ -158,4 +159,4 @@ flowchart TD
     style CZ fill:#e67e22,stroke:#ecf0f1,stroke-width:2px
     Z --> DA[Token dan Cryptocurrency]
     style DA fill:#e67e22,stroke:#ecf0f1,stroke-width:2px
-
+```
