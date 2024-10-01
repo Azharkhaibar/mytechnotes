@@ -4,8 +4,6 @@ Proyek ini merupakan kumpulan catatan teknis saya yang mencakup berbagai topik d
 
 ## Topik yang Dibahas
 
-### Ilmu Data dan Komputer Sains
-
 | **ILMU DATA**                                                                                  | **COMPSCI**                            |
 |------------------------------------------------------------------------------------------------|----------------------------------------|
 | [basic concept](data_engineer/basic_concept.md)                                              | [compsci path](compsci/compsci_path.md) |
@@ -18,7 +16,6 @@ Proyek ini merupakan kumpulan catatan teknis saya yang mencakup berbagai topik d
 | [data mart](datamart.md)                                                                     |                                        |
 | [SQL Schema](SQL_schema.md)                                                                   |                                        |
 
-### Backend dan Arsitektur
 
 | **BACKEND**                                                                                     | **ARCHITECTURE PATTERN**                |
 |------------------------------------------------------------------------------------------------|-----------------------------------------|
@@ -35,7 +32,6 @@ Proyek ini merupakan kumpulan catatan teknis saya yang mencakup berbagai topik d
 | [web application design](backend/web_application_design.md)                                     |                                         |
 | [web server](backend/web_server.md)                                                            |                                         |
 
-### API, IoT, dan Keamanan
 
 | **API DEVELOPMENT**                                                                            | **INTERNET OF THINGS**                          |
 |------------------------------------------------------------------------------------------------|------------------------------------------------|
@@ -44,7 +40,6 @@ Proyek ini merupakan kumpulan catatan teknis saya yang mencakup berbagai topik d
 | [websocket](<API DEVELOPMENT/websocket.md>)                                                  | [IoT Component](<internet of things/component.md>) |
 |                                                                                                | [sensor dan aktuator](<internet of things/sensor_and_actuator.md>) |
 
-### Keamanan, Pengetahuan Umum, dan Lainnya
 
 | **SECURITY**                                                                                  | **GENERAL KNOWLEDGE**                     | **MKDS**               |
 |------------------------------------------------------------------------------------------------|-------------------------------------------|-----------------------|
@@ -54,7 +49,6 @@ Proyek ini merupakan kumpulan catatan teknis saya yang mencakup berbagai topik d
 |                                                                                                | [OOP](general_knowledge/OOP.md)          |                       |
 |                                                                                                | [Programming Language](general_knowledge/programming_language.md) |                       |
 
-### Lainnya
 
 | **ANOTHER**                                                                                   |
 |------------------------------------------------------------------------------------------------|
@@ -75,4 +69,3 @@ Proyek ini merupakan kumpulan catatan teknis saya yang mencakup berbagai topik d
 | [VPN dan Proxy](vpn_and_proxy.md)                                                             |
 | [Tipe Web](web_types.md)                                                                       |
 | [XAMPP](xampp.md)                                                                             |
-
