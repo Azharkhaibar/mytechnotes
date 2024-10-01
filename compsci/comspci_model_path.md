@@ -1,5 +1,5 @@
-flowchart TD
 ```mermaid
+flowchart TD
     A[**Computer Science**] 
     style A fill:#2c3e50,stroke:#ecf0f1,stroke-width:4px
     A -->|Mempelajari| B[**Dasar-Dasar Komputer**]
