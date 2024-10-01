@@ -17,7 +17,7 @@ graph TD
     A --> N[Keamanan Siber]
     A --> O[Interaksi Manusia dan Komputer]
     A --> P[Cloud Computing]
-    A --> Q[Internet of Things (IoT)]
+    A --> Q[Internet of Things]
     A --> R[Teori Komputasi]
     A --> S[Komputasi Paralel]
     A --> T[Komputasi Kuantum]
@@ -82,3 +82,4 @@ graph TD
     Z --> CZ[Dasar Blockchain]
     Z --> DA[Aplikasi Blockchain]
 ```
+
