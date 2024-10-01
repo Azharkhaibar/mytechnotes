@@ -18,6 +18,7 @@ graph TD
     L -->|Pemulihan Setelah Serangan| M[Penguatan Sistem Keamanan]
     M -->|Peningkatan Kesadaran Keamanan| N[Pengguna Lebih Siaga]
     N -->|Mengurangi Risiko Serangan Masa Depan| O[Keamanan Lebih Baik]
+```
 
 
 # Peta Teknologi Keamanan Siber
