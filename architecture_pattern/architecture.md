@@ -2,7 +2,7 @@
 
 ## 1. Layered Architecture 🏢
 
-![alt text](img/layeredarch.pnglayeredarch.png)
+![alt text](img/layeredarch.png)
 
 Struktur yang digunakan untuk mengorganisir program ke dalam kelompok subtugas yang dapat didekomposisi, di mana masing-masing berada pada tingkat abstraksi tertentu. 
 - **Fungsi**: Setiap lapisan menyediakan layanan ke lapisan di atasnya. 
