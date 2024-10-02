@@ -1,6 +1,9 @@
 # Pola Arsitektur 🏗️✨
 
 ## 1. Layered Architecture 🏢
+
+![alt text](img/layeredarch.pnglayeredarch.png)
+
 Struktur yang digunakan untuk mengorganisir program ke dalam kelompok subtugas yang dapat didekomposisi, di mana masing-masing berada pada tingkat abstraksi tertentu. 
 - **Fungsi**: Setiap lapisan menyediakan layanan ke lapisan di atasnya. 
 
@@ -12,8 +15,15 @@ Struktur yang digunakan untuk mengorganisir program ke dalam kelompok subtugas y
 ---
 
 ## 2. Client-Server 🖥️💻
+
+![alt text](img/clientser.png)
+
 Komponen server memberikan layanan ke beberapa komponen klien. Klien meminta layanan dari server dan server memberikan layanan yang relevan.
 - **Keuntungan**: Pemisahan tanggung jawab dan efisiensi.
+
+![alt text](img/cs.png)
+
+![alt text](img/cs2.png)
 
 ---
 
@@ -36,6 +46,11 @@ Komponen broker bertanggung jawab untuk mengkoordinasikan komunikasi di antara k
 ---
 
 ## 6. Peer-to-Peer (P2P) 🤝🌍
+
+![alt text](img/peertopeer.png)
+
+![alt text](img/cp2p.png)
+
 Peer dapat berfungsi baik sebagai klien, meminta layanan dari peer lain, maupun sebagai server, memberikan layanan kepada peer lain.
 - **Fleksibilitas**: Peer dapat berubah peran secara dinamis seiring waktu.
 
@@ -48,7 +63,13 @@ Memiliki 4 komponen utama: sumber acara, pendengar acara, saluran, dan bus acara
 ---
 
 ## 8. Model-View-Controller (MVC) 🖼️📊
+
+![alt text](img/MVCB.png)
+
 Memisahkan representasi internal informasi dari cara informasi ditampilkan kepada pengguna dan diterima darinya.
+
+![alt text](img/CMVC.png)
+
 - **Struktur**: 
   - **Model**: Mengelola data dan logika bisnis.
   - **View**: Menampilkan data kepada pengguna.

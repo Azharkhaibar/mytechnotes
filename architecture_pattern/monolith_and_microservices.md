@@ -3,6 +3,9 @@
 # Monolithic vs Microservice Architecture 🏛️⚙️
 
 ## Monolithic Architecture 🏢
+
+![alt text](img/mlt.png)
+
 Monolith itu kayak aplikasi utuh yang punya satu kode dasar (ditulis dalam satu teknologi stack dan disimpan di satu repositori) dan punya satu titik masuk untuk menjalankan seluruh aplikasi. Ini adalah pendekatan paling umum buat membangun aplikasi sendiri atau bareng tim kecil.
 
 ### Keuntungan 👍
@@ -21,6 +24,10 @@ Monolith itu kayak aplikasi utuh yang punya satu kode dasar (ditulis dalam satu 
 ## Microservice Architecture 🚀
 Microservice itu juga aplikasi utuh dengan kode dasar yang sama. Tapi, bedanya, aplikasi ini cuma bertanggung jawab untuk satu unit fungsional. Yaitu, layanan kecil yang cuma nyelesain satu tugas, tapi dengan baik.
 
+![alt text](img/mcrs.png)
+
+![alt text](img/cmcrs-2.png)
+
 ### Keuntungan 🌟
 - **Setiap microservice bisa punya teknologi stack sendiri**: Masing-masing bisa berkembang secara mandiri.
 - **Mudah nambah fungsionalitas baru**: Cukup bikin microservice baru.
@@ -37,6 +44,8 @@ Microservice itu juga aplikasi utuh dengan kode dasar yang sama. Tapi, bedanya, 
 
 ## Kesimpulan 🎉
 Monolithic dan microservice architecture punya kelebihan dan kekurangan masing-masing. Pilihan antara keduanya tergantung pada skala proyek dan tim yang ada. Keduanya punya peran penting dalam dunia pengembangan software sekarang ini! 💻🌍
+
+![alt text](img/dmm.png)
 
 ## Referensi 🔗
 - [Monolithic vs Microservices](https://microservices.io)
