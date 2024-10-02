@@ -1,0 +1,1 @@
+[text](pdf/PPT-UEU-Dasar-Sistem-Informasi-Pertemuan-1.pdf)
