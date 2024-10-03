@@ -39,6 +39,8 @@ Berikut adalah beberapa konsep kunci yang perlu lo ngerti tentang Docker:
 3. **Efisiensi**  
    Container lebih ringan dibanding Virtual Machines (VM). VM butuh resource lebih besar karena dia nge-simulate satu sistem operasi penuh, sedangkan container cuma butuh resource yang dipake aplikasi dan dependensinya. Ini bikin Docker lebih efisien dalam hal resource dan performa.
 
+![alt text](img/dockerarch.png)
+
 ---
 
 ## ⚙️ Perbedaan Docker dengan Virtual Machine
