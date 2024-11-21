@@ -10,7 +10,7 @@ Psikosomatik adalah kondisi di mana **faktor psikologis** seperti stres, kecemas
    - Ketika seseorang mengalami stres, tubuh mengaktifkan respons "fight or flight" melalui pelepasan hormon stres seperti kortisol dan adrenalin.  
    - Jika respons ini berlangsung lama, hormon-hormon tersebut dapat memengaruhi fungsi organ, seperti jantung, pencernaan, atau otot.
 
-[text](kortisol_x_adrenalin.md)
+[Apa itu Kortisol dan adrenalin](kortisol_x_adrenalin.md)
 
 2. **🧠 Koneksi Otak dan Organ Tubuh:**  
    - Otak mengontrol tubuh melalui sistem saraf otonom. Ketika pikiran mengalami tekanan emosional, otak mengirimkan sinyal yang dapat memengaruhi fungsi tubuh, seperti meningkatkan detak jantung atau merusak keseimbangan sistem pencernaan.
